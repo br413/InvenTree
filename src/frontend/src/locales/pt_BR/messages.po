@@ -8,7 +8,7 @@ msgstr ""
 "Language: pt\n"
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-07-16 05:44\n"
+"PO-Revision-Date: 2026-07-16 21:55\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -28,7 +28,7 @@ msgstr "Erro ao renderizar componente"
 
 #: lib/components/Boundary.tsx:20
 msgid "An error occurred while rendering this component."
-msgstr ""
+msgstr "Ocorreu um erro ao renderizar este componente."
 
 #: lib/components/Boundary.tsx:23
 msgid "Try reloading the page, or contact your administrator if the problem persists."
